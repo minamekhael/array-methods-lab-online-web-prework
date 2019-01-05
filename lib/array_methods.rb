@@ -6,7 +6,7 @@ end
 
 def using_sort(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  array = values.sort
+  array.sort
   puts result
 end
 
