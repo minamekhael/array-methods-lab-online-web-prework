@@ -7,6 +7,7 @@ end
 def using_sort(array)
   values = [0, 1, 2, 3, 4]
   result = values.sort
+  puts result
 end
 
 def using_reverse(array)
