@@ -5,7 +5,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  puts array.sort
+  puts array.sort(#{array})
 end
 
 def using_reverse(array)
