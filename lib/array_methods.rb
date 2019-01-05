@@ -5,7 +5,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  array = ["first", "second", "last"]
+  array = ["last"]
   puts array.sort
 end
 
