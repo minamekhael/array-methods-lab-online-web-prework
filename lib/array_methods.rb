@@ -6,7 +6,7 @@ end
 
 def using_sort(array)
   array = [0, 1, 2, 3, 4]
- puts array.sort
+ puts array.sort = [4, 3, 2, 1]
 end
 
 def using_reverse(array)
