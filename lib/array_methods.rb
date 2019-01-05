@@ -6,6 +6,7 @@ end
 
 def using_sort(x)
  array.sort [0, 1, 2, 3, 4]
+ array = [0, 1, 2, 3, 4]
   puts x = array.sort
 end
 
